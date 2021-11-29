@@ -124,7 +124,7 @@ body{
 }
 
 .col1{
-    width: 300px;
+    width: 400px;
     display: grid;
     height: 40vh;
     row-gap: 2rem;
@@ -140,7 +140,7 @@ body{
     border-radius: 50%;
 }
 .col2{
-    width: 300px;
+    width: 400px;
     display: grid;
    background-color: white;
     height: 80vh;
@@ -151,7 +151,8 @@ body{
 .col2 img{
     width: 200px;
     height: 200px;
-    border-radius: 50%;
+    border-radius: 70%;
+    
 }
   
 .col2 .item4{
@@ -201,7 +202,7 @@ body{
 }
 
 .col3{
-    width: 300px;
+    width: 400px;
    
     height: 60vh;
     display: grid;
